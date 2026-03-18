@@ -36,5 +36,11 @@
     <ClCompile Include="name2.cpp">
       <Filter>헤더 파일\소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2-5square.cpp">
+      <Filter>헤더 파일\소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="triangle.cpp">
+      <Filter>헤더 파일\소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
