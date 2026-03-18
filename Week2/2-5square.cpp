@@ -17,7 +17,7 @@ int main(void)
 	if (option != 1 && option != 2)
 	{
 		cout << "Error: only choose 1 or 2";
-		return 0x712F;
+		return 0x712F; //16진법 (hex)
 	}
 
 	cout << "What size?";
